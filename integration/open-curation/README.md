@@ -25,6 +25,6 @@ Login with a creator profile (i.e. Lens handle). They can:
 
 #### Supported Ecosystems
 
-{% content-ref url="lens/" %}
-[lens](lens/)
+{% content-ref url="for-lens-dapp/" %}
+[for-lens-dapp](for-lens-dapp/)
 {% endcontent-ref %}
