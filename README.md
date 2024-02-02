@@ -20,10 +20,4 @@ Tako's principles, embedded in its open-source code, are designed to empower use
     By adding ”value“ to the content, each recommendation in this ecosystem is curated after careful evaluation. This value-matching recommendation model boosts content liquidity and its value flow in Web3 Social, fostering a more vibrant and organic sharing and recommendation environment.
 *   **Seamless Multi-ecosystems Experience**
 
-    Tako is meticulously designed for compatibility with virtually any open social protocol and multiple blockchains. It frees users from the constraints of single platforms or social networks, and provides developers with efficient integration of Tako APIs. Tako thus provides an expansive environment for content creators and audiences to connect without barriers.
-
-## **Our solutions**
-
-{% content-ref url="integration/introduction.md" %}
-[introduction.md](integration/introduction.md)
-{% endcontent-ref %}
+    Tako is meticulously designed for compatibility with virtually any open social protocol and multiple blockchains. It frees users from the constraints of single platforms or social networks and provides developers with efficient integration of Tako APIs. Tako thus provides an expansive environment for content creators and audiences to connect without barriers.
