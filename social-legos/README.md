@@ -1,5 +1,7 @@
 # Social Legos
 
+## Overview
+
 Tako Protocol will integrate data from various social platforms such as Farcaster, Twitter, and more, offering developers a convenient, unified development experience. It's like building with Lego blocks; we call it Social Lego
 
 ## Social Legos
@@ -11,4 +13,3 @@ Tako Protocol will integrate data from various social platforms such as Farcaste
 {% content-ref url="farcaster.md" %}
 [farcaster.md](farcaster.md)
 {% endcontent-ref %}
-
